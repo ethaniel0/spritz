@@ -1,5 +1,6 @@
 * {
-	
+	font-family: 'Comfortaa', cursive;
+	font-weight: 400;
 }
 
 body {
@@ -33,9 +34,14 @@ body {
 }
 
 #set {
-	padding: 1em;
+	padding: 0.5em;
 	background-color: rgb(255, 152, 93);
 	font-size: 2em;
+	border-radius: 0.5em;
 	text-decoration: none;
 	color: white;
+}
+
+.description {
+	margin: 2em;
 }

@@ -14,7 +14,7 @@ app.get('/set', (req, res) => {
 
 app.post('get-time', (req, res) => {
 
-})
+});
 
 app.listen(3000, () => {
   console.log('server started');
